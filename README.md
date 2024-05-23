@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm final semester undergraduate student who have completed the entire academic series. I'm from Purwakarta, Jawa barat, Indonesia 🇮🇩
 
 <!--
 **annisazachryfziah/annisazachryfziah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
